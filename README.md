@@ -53,11 +53,6 @@ The project introduces a new perspective on generative model applications for ma
   - PyTorch 2.5, torchvision
   - Numpy, scikit-learn, seaborn, matplotlib, tqdm
 
-### Steps
-1. Clone the repository.
-2. Install dependencies using `requirements.txt`.
-3. Run the Jupyter notebooks to train models, perform feature fusion, and evaluate results.
-
 ---
 
 ## Authors
