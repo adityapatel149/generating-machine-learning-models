@@ -1,7 +1,7 @@
 # Generating Machine Learning Models Using Machine Learning Models
 
 ## Overview
-This project explores the innovative concept of leveraging CycleGANs to merge the feature representations of two Convolutional Neural Networks (CNNs) trained on distinct domains. The resulting model is capable of performing a novel task—in this case, detecting black cats—by combining knowledge from CNNs trained to recognize cats and the color black.
+This project explores the innovative concept of leveraging CycleGANs to merge the feature representations of two Convolutional Neural Networks (CNNs) trained on distinct domains. The resulting model is capable of performing a novel task—in this case, detecting black cats—by combining knowledge from CNNs trained to recognize cats and the color black. The new model is never trained or exposed to any black cat images, and still classifies the images successfully with an accuracy of 88%. The weights of the said model model are initalised using a CycleGAN.
 
 The project introduces a new perspective on generative model applications for machine learning, opening pathways for automating the creation of task-specific classifiers while tackling challenges like data scarcity and limited computational resources.
 
